@@ -1,0 +1,1 @@
+Scripts to download data from NSE/BSE and load to Database.
