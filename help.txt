@@ -1,1 +1,3 @@
 Scripts to download data from NSE/BSE and load to Database.
+
+1. 1700 Days sec_bhavdata_full_DDMMYYYY.csv file download
